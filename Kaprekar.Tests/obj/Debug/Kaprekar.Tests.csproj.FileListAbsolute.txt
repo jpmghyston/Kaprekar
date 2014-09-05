@@ -1,0 +1,5 @@
+E:\Speed Coding Challenges\Kareprekar\Kaprekar\Kaprekar.Tests\obj\Debug\Kaprekar.Tests.csprojResolveAssemblyReference.cache
+E:\Speed Coding Challenges\Kareprekar\Kaprekar\Kaprekar.Tests\bin\Debug\Kaprekar.Tests.dll
+E:\Speed Coding Challenges\Kareprekar\Kaprekar\Kaprekar.Tests\bin\Debug\Kaprekar.Tests.pdb
+E:\Speed Coding Challenges\Kareprekar\Kaprekar\Kaprekar.Tests\obj\Debug\Kaprekar.Tests.dll
+E:\Speed Coding Challenges\Kareprekar\Kaprekar\Kaprekar.Tests\obj\Debug\Kaprekar.Tests.pdb
